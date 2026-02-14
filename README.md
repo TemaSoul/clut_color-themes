@@ -1,5 +1,6 @@
 # Clut color themes for [RawTherappe](https://github.com/RawTherapee/RawTherapee)
-
+Все cluts были взяти из [gowall](https://github.com/Achno/gowall) и размешены мной ради удобства использования их в [RawTherapee](https://github.com/RawTherapee/RawTherapee
+)
 ## Color themes
 *    `Gruvbox`
 *    `Catppuccin`
