@@ -1,8 +1,8 @@
 # Clut color themes for RawTherappe
 ## Color themes
-*    `gruvbox`
-*    `catppuccin`
-*    `everforest`
-*    `solarized`
+*    `Gruvbox`
+*    `Catppuccin`
+*    `Everforest`
+*    `Solarized`
 *    `Tokyo-dark` 
 
