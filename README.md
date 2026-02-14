@@ -26,3 +26,9 @@
 ![Tokyo-dark](./screenshots/examples/tokyo-dark.jpg)
 ### [Solarized](https://github.com/altercation/solarized)
 ![Solarized](./screenshots/examples/solarized.jpg) 
+
+## Инструкция по установке в RawTherappe
+![1_screenshot](./screenshots/1s.png)
+![2_screenshot](./screenshots/2s.png)
+![3_screenshot](./screenshots/3s.png)
+
