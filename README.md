@@ -1,4 +1,4 @@
-# Clut color themes for RawTherappe
+# Clut color themes for [RawTherappe](https://github.com/RawTherapee/RawTherapee)
 
 ## Color themes
 *    `Gruvbox`
@@ -8,7 +8,6 @@
 *    `Tokyo-dark` 
 
 ## До/После
-
 ### До
 ![before](./screenshots/before.jpg)
 
@@ -16,14 +15,13 @@
 ![after](./screenshots/after.jpg)
 
 ## Примеры фото
-
-### Gruvbox
+### [Gruvbox](https://github.com/morhetz/gruvbox)
 ![Gruvbox](./screenshots/examples/gruvbox.jpg)
-### Everforest
+### [Everforest](https://github.com/sainnhe/everforest)
 ![Everforest](./screenshots/examples/everforest.jpg)
-### Catppuccin
+### [Catppuccin](https://github.com/catppuccin/catppuccin)
 ![Catppuccin](./screenshots/examples/catppuccin.jpg)
 ### Tokyo-dark
 ![Tokyo-dark](./screenshots/examples/tokyo-dark.jpg)
-### Solarized
+### [Solarized](https://github.com/altercation/solarized)
 ![Solarized](./screenshots/examples/solarized.jpg) 
