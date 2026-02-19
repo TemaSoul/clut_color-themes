@@ -27,7 +27,7 @@
 ### [Solarized](https://github.com/altercation/solarized)
 ![Solarized](./screenshots/examples/solarized.jpg) 
 
-## Инструкция по установке в RawTherappe
+## Инструкция по установке в ART & RawTherappe
 ![1-screenshot](./screenshots/1s.png)
 ![2-screenshot](./screenshots/2s.png)
 ![3-screenshot](./screenshots/3s.png)
