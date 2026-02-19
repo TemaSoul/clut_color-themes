@@ -1,5 +1,5 @@
-# Clut color themes for [RawTherappe](https://github.com/RawTherapee/RawTherapee)
-Все cluts были взяти из [gowall](https://github.com/Achno/gowall) и размешены мной ради удобства использования их в [RawTherapee](https://github.com/RawTherapee/RawTherapee
+# Clut color themes for [ART](https://artraweditor.github.io/) & [RawTherappe](https://github.com/RawTherapee/RawTherapee)
+Все cluts были взяти из [gowall](https://github.com/Achno/gowall) и размешены мной ради удобства использования их в [ART](https://artraweditor.github.io/) & [RawTherapee](https://github.com/RawTherapee/RawTherapee
 )
 ## Color themes
 *    `Gruvbox`
@@ -28,7 +28,7 @@
 ![Solarized](./screenshots/examples/solarized.jpg) 
 
 ## Инструкция по установке в RawTherappe
-![1_screenshot](./screenshots/1s.png)
-![2_screenshot](./screenshots/2s.png)
-![3_screenshot](./screenshots/3s.png)
+![1-screenshot](./screenshots/1s.png)
+![2-screenshot](./screenshots/2s.png)
+![3-screenshot](./screenshots/3s.png)
 
