@@ -9,11 +9,7 @@
 *    `Tokyo-dark` 
 
 ## До/После
-### До
-![before](./screenshots/before.jpg)
-
-### После
-![after](./screenshots/after.jpg)
+![b&a](./screenshots/До_После.png)
 
 ## Примеры фото
 ### [Gruvbox](https://github.com/morhetz/gruvbox)
