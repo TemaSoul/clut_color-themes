@@ -1,5 +1,5 @@
 # Clut color themes for [ART](https://artraweditor.github.io/) & [RawTherappe](https://github.com/RawTherapee/RawTherapee)
-Все cluts были взяти из [gowall](https://github.com/Achno/gowall) и размешены мной ради удобства использования их в [ART](https://artraweditor.github.io/) & [RawTherapee](https://github.com/RawTherapee/RawTherapee
+Все cluts были взяти из [gowall](https://github.com/Achno/gowall) и тут размешены ради удобства использования их в [ART](https://artraweditor.github.io/) & [RawTherapee](https://github.com/RawTherapee/RawTherapee
 )
 ## Color themes
 *    `Gruvbox`
